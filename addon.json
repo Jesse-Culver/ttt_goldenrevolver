@@ -1,0 +1,17 @@
+{
+	"title"		:	"TTT Golden Revolver",
+	"type"		:	"weapon",
+	"tags"		:	[ "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+    "*.git/*",
+    "*.pdn",
+    "LICENSE",
+		"gamemodes/mttt/README.md",
+		"README.md",
+		"*.log",
+		"source/*",
+		"*.svn*"
+	]
+}
